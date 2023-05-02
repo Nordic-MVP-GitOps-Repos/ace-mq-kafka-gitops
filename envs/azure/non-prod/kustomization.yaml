@@ -3,7 +3,7 @@ kind: Kustomization
 
 components:
 
-- ../../../components/mariadb/variants/azure
+- ../../../components/mariadb/variants/cloudprovider/azure
 
 resources:
 - ../../../components/app/base
