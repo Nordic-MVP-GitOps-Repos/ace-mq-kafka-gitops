@@ -3,4 +3,4 @@ kind: PersistentVolumeClaim
 metadata:
   name: mariadb
 spec:
-  storageClassName: managed-premium-retain
+  storageClassName: managed-premium
